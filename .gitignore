@@ -1,0 +1,12 @@
+*.pyc
+*.html
+*.so
+
+static/
+help/
+
+build/
+.idea/
+.vscode/
+Release
+Debug
