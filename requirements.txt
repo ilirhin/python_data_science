@@ -8,3 +8,6 @@ seaborn
 statsmodels
 xlrd
 pydotplus
+xgboost
+catboost
+lightgbm
